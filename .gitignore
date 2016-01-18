@@ -17,3 +17,6 @@ config.log
 config.status
 *.cache
 
+# annoying mac stuff
+.DS_Store
+
